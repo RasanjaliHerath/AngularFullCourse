@@ -1,0 +1,21 @@
+.active{
+    background-color: rgb(11, 44, 138);
+    border: 8px rgb(214, 36, 170)
+}
+
+.no-active{
+    background-color: rgb(206, 19, 19);
+    
+}
+
+.active-border{
+    border:8px rgb(201, 26, 172)
+}
+
+.no-active-border{
+    border:10px rgb(235, 221, 26)
+}
+.apple{
+    background-color: rgb(243, 12, 12);
+    border: 5px rgb(232, 245, 54);
+}
